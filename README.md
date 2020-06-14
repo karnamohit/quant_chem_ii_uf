@@ -6,6 +6,6 @@ Find the GETREC subroutine at the following location:
 
 https://github.com/certik/ACESIII/blob/master/aces2/getrec.F
 
-More subroutines, used by ACESII found at:
+More subroutines, used by ACESII, found at:
 
 https://github.com/certik/ACESIII/blob/master/aces2/
